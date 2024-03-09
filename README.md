@@ -1,1 +1,1 @@
-# finance-tracking-project
+# Finance Tracking Project
